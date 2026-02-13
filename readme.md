@@ -11,10 +11,15 @@ This project allows users to upload PDFs and ask questions about them — comple
 
 🚀 Features
 ✅ Fully Offline (No Internet Required After Setup)
+
 ✅ No API Key Needed
+
 ✅ Optimized for 8GB RAM Laptops
+
 ✅ Fast Retrieval-Based Answers
+
 ✅ Lightweight Local LLM (phi3:mini)
+
 ✅ Clean Streamlit UI
 
 🛠️ System Requirements
@@ -26,6 +31,7 @@ This project allows users to upload PDFs and ask questions about them — comple
 📦 Installation Guide
 Step 1 — Clone Repository
  git clone https://github.com/Nidhisharora/ask-multiple-pdfs.git
+
  cd ask-multiple-pdfs
 
 Step 2 — Create Virtual Environment
